@@ -1,6 +1,6 @@
 {
-  "name": "cookie-universal-nuxt",
-  "version": "2.2.2",
+  "name": "@timvdeijnden/cookie-universal-nuxt",
+  "version": "0.0.1",
   "description": "Universal cookie plugin for Nuxt, perfect for SSR",
   "main": "lib/module.mjs",
   "author": "Salvatore Tedde <microcipcip@gmail.com>",
